@@ -1,4 +1,4 @@
-# AI-DataScience
+# AI-DataScience Projects
 
 Welcome to the **AI-DataScience** repository! This project showcases various Artificial Intelligence (AI) and Data Science implementations, focusing on creating structured and reusable solutions for real-world problems.
 
